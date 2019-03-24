@@ -3,11 +3,12 @@
   <groupId>com.ms</groupId>
   <artifactId>maven-plugin</artifactId>
   <versioning>
-    <release>1.0.0</release>
+    <release>1.0.0-release</release>
     <versions>
       <version>1.0.0</version>
       <version>1.0.1</version>
+      <version>1.0.0-release</version>
     </versions>
-    <lastUpdated>20190324095700</lastUpdated>
+    <lastUpdated>20190324111530</lastUpdated>
   </versioning>
 </metadata>
