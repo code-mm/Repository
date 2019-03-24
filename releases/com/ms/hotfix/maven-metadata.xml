@@ -3,11 +3,12 @@
   <groupId>com.ms</groupId>
   <artifactId>hotfix</artifactId>
   <versioning>
-    <release>1.0.1-release</release>
+    <release>1.0.3-release</release>
     <versions>
       <version>1.0.0-release</version>
       <version>1.0.1-release</version>
+      <version>1.0.3-release</version>
     </versions>
-    <lastUpdated>20190324125010</lastUpdated>
+    <lastUpdated>20190324125702</lastUpdated>
   </versioning>
 </metadata>
