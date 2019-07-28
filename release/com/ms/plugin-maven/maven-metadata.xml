@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.ms</groupId>
+  <artifactId>plugin-maven</artifactId>
+  <versioning>
+    <release>laster-release</release>
+    <versions>
+      <version>laster-release</version>
+    </versions>
+    <lastUpdated>20190728115902</lastUpdated>
+  </versioning>
+</metadata>
