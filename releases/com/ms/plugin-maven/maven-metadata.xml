@@ -3,7 +3,7 @@
   <groupId>com.ms</groupId>
   <artifactId>plugin-maven</artifactId>
   <versioning>
-    <release>1.0.8-release</release>
+    <release>1.0.9-release</release>
     <versions>
       <version>1.0.0-release</version>
       <version>laster-release</version>
@@ -16,7 +16,8 @@
       <version>1.0.6-release</version>
       <version>1.0.7-release</version>
       <version>1.0.8-release</version>
+      <version>1.0.9-release</version>
     </versions>
-    <lastUpdated>20190728125044</lastUpdated>
+    <lastUpdated>20190728125225</lastUpdated>
   </versioning>
 </metadata>
